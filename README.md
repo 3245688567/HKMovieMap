@@ -2,7 +2,7 @@
 
 **香港電影場景地圖庫** 是一個將 **香港電影拍攝地點** 顯示在互動地圖上的網站。使用者可以探索經典電影場景，查看電影截圖及場景資訊。
 
-🌐 網址 / URL: [hkmoivemap.pages.dev](https://hkmoivemap.pages.dev)
+🌐 網址 / URL: [hkmoviemap.pages.dev](https://hkmoviemap.pages.dev)
 
 ## 功能 / Features
 
